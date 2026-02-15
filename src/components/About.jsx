@@ -31,7 +31,7 @@ const About = () => {
                 <div className="relative">
                   <div className="w-40 h-40 rounded-lg overflow-hidden shadow-xl">
                     <img
-                      src="/sabaf-pf/about-me-1.jpg"
+                      src="./about-me-1.jpg"
                       alt="About Me - Photo 1"
                       className="w-full h-full object-cover"
                       onError={(e) => {
@@ -46,7 +46,7 @@ const About = () => {
                 <div className="relative">
                   <div className="w-40 h-40 rounded-lg overflow-hidden shadow-xl">
                     <img
-                      src="/sabaf-pf/about-me-2.jpg"
+                      src="./about-me-2.jpg"
                       alt="About Me - Photo 2"
                       className="w-full h-full object-cover"
                       onError={(e) => {

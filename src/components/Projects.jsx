@@ -5,7 +5,7 @@ const Projects = () => {
     {
       title: 'Blood Group System',
       description: 'The blood group system is a way of classifying human blood based on antigens present on the surface of red blood cells (RBCs). Coming Soon!',
-      image: '/sabaf-pf/project1.jpg',
+      image: './project1.jpg',
       tags: ['React', 'Java', 'MongoDB'],
       link: '#',
       status: 'Coming Soon'
@@ -13,7 +13,7 @@ const Projects = () => {
     {
       title: 'Library Management System',
       description: 'A comprehensive full-stack system for managing library resources, books, and user accounts. Built with modern web technologies.',
-      image: '/sabaf-pf/project2.jpg',
+      image: './project2.jpg',
       tags: ['HTML', 'JavaScript', 'PHP', 'Node.js', 'React.js', 'Laravel'],
       link: '#',
       status: 'Coming Soon'
@@ -21,7 +21,7 @@ const Projects = () => {
     {
       title: 'Portfolio Website',
       description: 'Modern and responsive portfolio website with smooth animations and dark mode support.',
-      image: '/sabaf-pf/project3.jpg',
+      image: './project3.jpg',
       tags: ['React', 'Tailwind', 'Vite'],
       link: 'https://github.com/sabafyadmorko8-CS/sabaf-pf',
       status: 'Completed'
